@@ -1,0 +1,14 @@
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\bin\Debug\TravellingSalesMan_Yarkin_Celikel.exe.config
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\bin\Debug\TravellingSalesMan_Yarkin_Celikel.exe
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\bin\Debug\TravellingSalesMan_Yarkin_Celikel.pdb
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\obj\Debug\TravellingSalesMan_Yarkin_Celikel.Form1.resources
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\obj\Debug\TravellingSalesMan_Yarkin_Celikel.Properties.Resources.resources
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\obj\Debug\TravellingSalesMan_Yarkin_Celikel.csproj.GenerateResource.Cache
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\obj\Debug\TravellingSalesMan_Yarkin_Celikel.exe
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\obj\Debug\TravellingSalesMan_Yarkin_Celikel.pdb
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\bin\Debug\ExcelDataReader.dll
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\bin\Debug\ExcelDataReader.pdb
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\bin\Debug\ExcelDataReader.xml
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\bin\Debug\GemBox.Spreadsheet.dll
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\bin\Debug\GemBox.Spreadsheet.xml
+c:\users\dc\documents\visual studio 2015\Projects\TravellingSalesMan_Yarkin_Celikel\TravellingSalesMan_Yarkin_Celikel\obj\Debug\TravellingSalesMan_Yarkin_Celikel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,77 @@
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\YCH\Desktop\Sql li proje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\YCH\Desktop\Sql li proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\YCH\Desktop\Sql li proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\YCH\Desktop\Sql li proje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\YCH\Desktop\Sql li proje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\YCH\Desktop\Sql li proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\YCH\Desktop\Sql li proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\YCH\Desktop\Sql li proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\YCH\Desktop\Sql li proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\YCH\Desktop\Sql li proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\YCH\Desktop\Sql li proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.kmenu.resources
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\YCH\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.kmenu.resources
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\YCH\Desktop\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.kmenu.resources
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\YCH\Desktop\Sql li proje\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.kmenu.resources
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.admingiris.resources
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.admingirisi.resources
+C:\Users\DC\Desktop\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.adminkontrol.resources
+D:\MasaÜstü\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\MasaÜstü\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\MasaÜstü\C# İleri\SQL Kitap Kafe OTOMASYONU\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

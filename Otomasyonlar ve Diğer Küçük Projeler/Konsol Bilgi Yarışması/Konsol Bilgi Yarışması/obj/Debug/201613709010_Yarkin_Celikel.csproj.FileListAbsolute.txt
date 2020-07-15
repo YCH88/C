@@ -1,0 +1,87 @@
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.exe.config
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\AMAZING.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BRILLIANT.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BUNGEE.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BYEBYE.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\EXCELLENT.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\HELLO.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\ILLGETYOU.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\INCOMING.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\JUSTYOUWAIT.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\LAUGH.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\MISSED.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\NOOO.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\ORDERS.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\PERFECT.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\STUPID.WAV
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.exe
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.pdb
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.csprojResolveAssemblyReference.cache
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.exe
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.pdb
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.exe.config
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.exe
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.pdb
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\AMAZING.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BRILLIANT.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BUNGEE.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BYEBYE.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\EXCELLENT.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\HELLO.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\ILLGETYOU.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\INCOMING.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\JUSTYOUWAIT.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\LAUGH.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\MISSED.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\NOOO.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\ORDERS.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\PERFECT.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\STUPID.WAV
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.exe
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.pdb
+C:\Users\YCH\Desktop\Dönem Ödevi Yedek CS leri\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.csprojResolveAssemblyReference.cache
+C:\Users\YCH\Desktop\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\FLAWLESS.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\AMAZING.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BRILLIANT.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BUNGEE.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BYEBYE.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\EXCELLENT.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\FLAWLESS.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\HELLO.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\ILLGETYOU.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\INCOMING.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\JUSTYOUWAIT.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\LAUGH.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\MISSED.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\NOOO.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\ORDERS.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\PERFECT.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\STUPID.WAV
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.exe.config
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.exe
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.pdb
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.csprojResolveAssemblyReference.cache
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.exe
+C:\Users\YCH\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.pdb
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.exe.config
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.exe
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.pdb
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\AMAZING.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BRILLIANT.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BUNGEE.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\BYEBYE.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\EXCELLENT.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\FLAWLESS.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\HELLO.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\ILLGETYOU.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\INCOMING.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\JUSTYOUWAIT.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\LAUGH.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\MISSED.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\NOOO.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\ORDERS.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\PERFECT.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\STUPID.WAV
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.exe
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\bin\Debug\201613709010_Yarkin_Celikel.pdb
+C:\Users\DC\Desktop\Çalışmalar\201613709010_Yarkin_Celikel\201613709010_Yarkin_Celikel\obj\Debug\201613709010_Yarkin_Celikel.csprojResolveAssemblyReference.cache
