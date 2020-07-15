@@ -1,0 +1,9 @@
+c:\users\dc\documents\visual studio 2015\Projects\Tas_Kagit_Makas\Tas_Kagit_Makas\bin\Debug\Tas_Kagit_Makas.exe.config
+c:\users\dc\documents\visual studio 2015\Projects\Tas_Kagit_Makas\Tas_Kagit_Makas\bin\Debug\Tas_Kagit_Makas.exe
+c:\users\dc\documents\visual studio 2015\Projects\Tas_Kagit_Makas\Tas_Kagit_Makas\bin\Debug\Tas_Kagit_Makas.pdb
+c:\users\dc\documents\visual studio 2015\Projects\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.csprojResolveAssemblyReference.cache
+c:\users\dc\documents\visual studio 2015\Projects\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.Form1.resources
+c:\users\dc\documents\visual studio 2015\Projects\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.Properties.Resources.resources
+c:\users\dc\documents\visual studio 2015\Projects\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.csproj.GenerateResource.Cache
+c:\users\dc\documents\visual studio 2015\Projects\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.exe
+c:\users\dc\documents\visual studio 2015\Projects\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.pdb
